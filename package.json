@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ackyras/express-model/issues"
   },
-  "homepage": "https://github.com/Ackyras/express-model#readme"
+  "homepage": "https://github.com/Ackyras/express-model#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
